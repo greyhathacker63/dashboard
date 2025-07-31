@@ -1,0 +1,65 @@
+{
+    "appTitle": "Dashboard",
+    "colors": {
+      "primarySwatch": "blueGrey",
+      "primaryColorHex": "#37474F",
+      "accentColorHex": "#64FFDA",
+      "scaffoldBackgroundColorHex": "#ECEFF1",
+      "appBarBackgroundColorHex": "#263238",
+      "appBarForegroundColorHex": "#FFFFFF",
+      "cardTextColorHex": "#263238",
+      "expansionIconColorHex": "#455A64",
+      "expansionTextColorHex": "#263238",
+      "expansionCollapsedIconColorHex": "#78909C",
+      "expansionCollapsedTextColorHex": "#455A64",
+      "buttonBackgroundColorHex": "#64FFDA",
+      "buttonPressedColorHex": "#1DE9B6",
+      "buttonHoveredColorHex": "#A7FFEB",
+      "buttonForegroundColorHex": "#FFFFFF",
+      "errorIconColorHex": "#EF5350",
+      "errorTextColorHex": "#C62828"
+    },
+    "fontSizes": {
+      "appBarTitle": 24.0,
+      "cardTitle": 20.0,
+      "cardCategory": 12.0,
+      "cardShortDescription": 16.0,
+      "cardLongDescription": 15.0,
+      "errorText": 20.0
+    },
+    "spacing": {
+      "cardMargin": 12.0,
+      "gridCrossAxisSpacing": 20.0,
+      "gridMainAxisSpacing": 20.0,
+      "cardImageTextSpacing": 16.0,
+      "cardTitleCategorySpacing": 6.0,
+      "cardBeforeExpandableSpacing": 10.0,
+      "expansionTilePaddingHorizontal": 20.0,
+      "expansionTilePaddingVertical": 10.0,
+      "expansionChildrenPaddingHorizontal": 20.0,
+      "expansionChildrenPaddingVertical": 10.0,
+      "buttonPaddingHorizontal": 28.0,
+      "buttonPaddingVertical": 14.0,
+      "errorIconTextSpacing": 24.0,
+      "errorButtonSpacing": 24.0
+    },
+    "sizes": {
+      "cardImageHeight": 140.0,
+      "cardAspectRatio": 0.9,
+      "errorIconSize": 70.0,
+      "drawerAvatarRadius": 35.0,
+      "drawerAvatarIconSize": 45.0,
+      "drawerHeaderSpacing": 12.0,
+      "drawerHeaderTitleSize": 20.0
+    },
+    "cardProperties": {
+      "elevation": 8.0,
+      "borderRadius": 20.0
+    },
+    "buttonProperties": {
+      "elevationDefault": 5.0,
+      "elevationPressed": 10.0,
+      "borderRadius": 12.0
+    }
+  }
+  
